@@ -1,0 +1,17 @@
+[
+  { "weather": "Thunderstorm", "img_src": "" },
+  { "weather": "Drizzle", "img_src": "" },
+  { "weather": "Rain", "img_src": "rainy.png" },
+  { "weather": "Snow", "img_src": "" },
+  { "weather": "Mist", "img_src": "" },
+  { "weather": "Smoke", "img_src": "" },
+  { "weather": "Haze", "img_src": "" },
+  { "weather": "Dust", "img_src": "" },
+  { "weather": "Fog", "img_src": "" },
+  { "weather": "Sand", "img_src": "" },
+  { "weather": "Ash", "img_src": "" },
+  { "weather": "Squall", "img_src": "" },
+  { "weather": "Tornado", "img_src": "" },
+  { "weather": "Clear", "img_src": "sunny.png" },
+  { "weather": "Clouds", "img_src": "cloudy.png" }
+]
