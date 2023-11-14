@@ -3,7 +3,7 @@ import React, { useState } from "react";
 
 function App() {
   const api = {
-    key: "9a9de45b7b630c52a49e8f3c3ecf5366", //api klíč
+    key: "", //api klíč
     geo_base: "https://api.openweathermap.org/geo/1.0/direct?", //základní adresa pro hledání koordinátů
     base: "https://api.openweathermap.org/data/2.5/weather?", //základní adresa pro hledání počasí
   };
@@ -65,7 +65,6 @@ function App() {
 
   return (
     <div class="App">
-      
       <div class="top">
         {allData ? (
           <div class="wrapper">
