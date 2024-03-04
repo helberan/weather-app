@@ -1,0 +1,21 @@
+[
+  {
+    "weather": "Thunderstorm",
+    "img_src": "thunder.png",
+    "img_alt": "thunder"
+  },
+  { "weather": "Drizzle", "img_src": "rain.png", "img_alt": "rain" },
+  { "weather": "Rain", "img_src": "rain.png", "img_alt": "rain" },
+  { "weather": "Snow", "img_src": "snow.png", "img_alt": "snow" },
+  { "weather": "Mist", "img_src": "fog.png", "img_alt": "fog" },
+  { "weather": "Smoke", "img_src": "fog.png", "img_alt": "fog" },
+  { "weather": "Haze", "img_src": "fog.png", "img_alt": "fog" },
+  { "weather": "Dust", "img_src": "fog.png", "img_alt": "fog" },
+  { "weather": "Fog", "img_src": "fog.png", "img_alt": "fog" },
+  { "weather": "Sand", "img_src": "fog.png", "img_alt": "fog" },
+  { "weather": "Ash", "img_src": "fog.png", "img_alt": "fog" },
+  { "weather": "Squall", "img_src": "thunder.png", "img_alt": "thunder" },
+  { "weather": "Tornado", "img_src": "tornado.png", "img_alt": "tornado" },
+  { "weather": "Clear", "img_src": "sun.png", "img_alt": "sun" },
+  { "weather": "Clouds", "img_src": "clouds.png", "img_alt": "clouds" }
+]
