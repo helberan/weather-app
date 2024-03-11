@@ -25,10 +25,11 @@
 }
 
 header {
+  margin-right: 30px;
   margin-top: 10px;
   margin-bottom: 40px;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 header input {
@@ -36,6 +37,7 @@ header input {
   height: 25px;
   border: none;
   border-bottom: 2px solid;
+  margin-right: 20px;
 }
 
 header img {
