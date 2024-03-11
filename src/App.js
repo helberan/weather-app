@@ -108,8 +108,9 @@ function App() {
             onChange={(e) => setPlace(e.target.value)}
             onKeyDown={handleKeyDown}
           />
-          <div className={`circle ${tempColor}`} onClick={handleClick}></div>
-          <img src={glass} alt="search" onClick={handleClick} />
+          <div className={`circle ${tempColor}`} onClick={handleClick}>
+            <img src={glass} alt="search" onClick={handleClick} />
+          </div>
         </header>
         <div className="main">
           {allData ? (

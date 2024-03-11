@@ -41,18 +41,15 @@ header input {
 header img {
   width: 30px;
   height: 30px;
-  position: absolute;
-  top: 116px;
-  right: 565px;
 }
 
 .circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  position: absolute;
-  top: 105px;
-  right: 550px;
   border-top: 3px solid black;
   border-left: 3px solid black;
   border-right: 5px solid black;
